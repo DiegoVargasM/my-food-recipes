@@ -1,0 +1,38 @@
+.title,
+.pages {
+    font-size:42px;
+    text-align:center;
+    color:lemonchiffon;
+    font-family:Helvetica, Arial, sans-serif
+}
+
+.title.main {
+    background-color: darkolivegreen;
+}
+
+.pages{
+    background-color: goldenrod;
+}
+
+.link {
+    font-weight: 800;
+    background-color: darkgray;
+    font-size: 28px;
+    color:blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: auto;
+    height: 400px;
+}
+
+.subtitle {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.subtitle,
+.content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
